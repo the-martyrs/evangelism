@@ -1,0 +1,13 @@
+{
+  "title": "Dashboard",
+  "welcome": {
+    "title": "Welcome to The Martyrs Evangelism Tracker",
+    "description": "Making it easier to reach out to people we have evangelized to.",
+    "author": "— From the <strong>The Martyrs Tech Team</strong>"
+  },
+  "links": {
+    "github": "GitHub Repository",
+    "openIssue": "Open Issue",
+    "documentation": "Documentation"
+  }
+}
