@@ -6,7 +6,7 @@ For detailed information on how to use this project, a documentation is currentl
 
 ## Demo
 
-A live demonstration of what you will have when starting a project with 🚀 Start UI <small>[web]</small> is available on [the-martyrs-evangelism.vercel.app](https://the-martyrs-evangelism.vercel.app)
+A live demonstration of what you will have when starting a project with 🚀 This project will be available on [the-martyrs-evangelism.vercel.app](https://the-martyrs-evangelism.vercel.app)
 
 
 ## Getting Started
