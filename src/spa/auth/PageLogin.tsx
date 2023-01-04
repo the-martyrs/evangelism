@@ -21,9 +21,10 @@ export const PageLogin = () => {
   return (
     <SlideIn>
       <Box px="2" py="4rem" w="22rem" maxW="full" m="auto">
-        <Logo h="3rem" mb="8" mx="auto" />
+        <Logo mb="12" mx="auto" />
         <Box
           p="6"
+          mt="4"
           borderRadius="md"
           boxShadow="md"
           bg="white"
@@ -34,7 +35,7 @@ export const PageLogin = () => {
           </Heading>
           <LoginForm onSuccess={onLogin} />
         </Box>
-        <Center mt="8">
+        {/* <Center mt="8">
           <Button as={RouterLink} to="/account/register" variant="link">
             {t('auth:login.actions.needAccount')}{' '}
             <Box
@@ -46,7 +47,7 @@ export const PageLogin = () => {
               {t('auth:login.actions.register')}
             </Box>
           </Button>
-        </Center>
+        </Center> */}
       </Box>
     </SlideIn>
   );
